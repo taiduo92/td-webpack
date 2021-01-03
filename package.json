@@ -1,0 +1,20 @@
+{
+  "name": "td-webpack",
+  "version": "1.0.0",
+  "description": "<!--  * @Author: taiduo  * @Date: 2020-12-13 21:34:06  * @LastEditTime: 2021-01-03 23:06:55  * @LastEditors: Please set LastEditors  * @Description: 面试核心点  * @FilePath: /review/webpack/README.md -->",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taiduo92/td-webpack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taiduo92/td-webpack/issues"
+  },
+  "homepage": "https://github.com/taiduo92/td-webpack#readme"
+}
